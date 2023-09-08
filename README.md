@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **imoguz0510@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/im-abdullah-oguz](www.linkedin.com/in/im-abdullah-oguz)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/im-abdullah-oguz/)
 
 - ⚡ Fun fact **Coding, reading, walking in nature**
 
