@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate full-satck developer from Turkey</h3>
 
-- 🌱 I'm a Full-Stack Developer **MERN Stack**
-- 
-- 👨‍💻 All of my projects are available at [Portfolio App](https://portfolio-imoguz.vercel.app/)
+- 🌱 I'm a Full-Stack Developer **- MERN Stack**
+  
+- 👨‍💻 All of my projects are available at [My Portfolio App](https://portfolio-imoguz.vercel.app/)
 
-- 💬 Ask me about **Javascript, TypeScript, Reactjs, Nextjs, Expressjs, MongoDB, MUI**
+- 💬 Ask me about **- Javascript, TypeScript, Reactjs, Nextjs, Expressjs, MongoDB, MUI**
 
-- 📫 How to reach me **imoguz0510@gmail.com**
+- 📫 How to reach me **- imoguz0510@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/imoguz)
 
-- ⚡ Fun fact **Coding, reading, walking in nature**
+- ⚡ Fun fact **- Coding, reading, walking in nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
