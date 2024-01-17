@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate full-satck developer from Turkey</h3>
 
-- 🌱 I'm currently training at Clarusway. **sql, node.js**
+- 🌱 I'm a Full-Stack Developer **MERN Stack**
+- 
+- 👨‍💻 All of my projects are available at [Portfolio App](https://portfolio-imoguz.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [imoguz.com](imoguz.com)
-
-- 💬 Ask me about **Javascript, TypeScript, Reactjs, Nextjs, Cypress**
+- 💬 Ask me about **Javascript, TypeScript, Reactjs, Nextjs, Expressjs, MongoDB, MUI**
 
 - 📫 How to reach me **imoguz0510@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/im-abdullah-oguz/)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/imoguz)
 
 - ⚡ Fun fact **Coding, reading, walking in nature**
 
