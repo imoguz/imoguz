@@ -6,7 +6,7 @@
   
 - 👨‍💻 All of my projects are available at [My Portfolio App](https://portfolio-imoguz.vercel.app/)
 
-- 💬 Ask me about **- Javascript, TypeScript, Reactjs, Nextjs, Expressjs, MongoDB, MUI**
+- 💬 Ask me about **- Javascript, TypeScript, Reactjs, Nextjs, React Native, Nodejs, Expressjs, MongoDB, Firestore**
 
 - 📫 How to reach me **- imoguz0510@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/im-abdullah-oguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-abdullah-oguz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/im-abdullah-oguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-oguz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
